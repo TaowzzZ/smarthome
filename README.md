@@ -44,7 +44,7 @@
 ## 项目演示视频 ##
 
 
-<iframe width="510" height="498" src="http://player.youku.com/embed/XMzQ4MTExNTI3Ng==' frameborder=0 'allowfullscreenm" frameborder="0" allowfullscreen></iframe>
+<iframe width="510" height="498" src='http://player.youku.com/embed/XMzQ4MTExNTI3Ng==' frameborder=0 'allowfullscreenm' frameborder="0" allowfullscreen></iframe>
 
 
 
