@@ -41,14 +41,10 @@
 
 
 
-##项目演示视频##
+## 项目演示视频 ##
 
 
-
-  <iframe width="560" height="315" src="http://v.youku.com/v_show/id_XMzQ4MTExNTI3Ng==.html?spm=a2h3j.8428770.3416059.1" frameborder="0" allowfullscreen></iframe>
-
-
-
+<iframe width="510" height="498" src="http://player.youku.com/embed/XMzQ4MTExNTI3Ng==' frameborder=0 'allowfullscreenm" frameborder="0" allowfullscreen></iframe>
 
 
 
