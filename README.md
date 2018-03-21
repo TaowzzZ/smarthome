@@ -42,9 +42,9 @@
 
 
 ## 项目演示视频 ##
+   
 
-<iframe width="600" height="498" src="http://player.youku.com/embed/XMzQ4MTExNTI3Ng==" frameborder="0" allowfullscreen></iframe>
-
+  [ 项目演示视频 ](http://player.youku.com/embed/XMzQ4MTExNTI3Ng==)
 
 
 
